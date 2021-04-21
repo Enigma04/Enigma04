@@ -4,8 +4,8 @@
 - 💞️ Anything Flutter related
 - 📫 https://www.instagram.com/rohitvarma_04/
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top_langs?username=Enigma04&theme=dracula"/>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Enigma04&layout=compact&show_icons=true&theme=dracula"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Enigma04&show_icons=true&theme=dracula"/>
 
 <!---
 Enigma04/Enigma04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
