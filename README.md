@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rohit Thukral
-- 👀 I’m interested in ...
-- 🌱 Flutter Framework and Python Flask
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in reading, playing video games, music and talking to people and getting to know their views on certain things.
+- 🌱 I am currently learning Flutter Framework and Python Flask
+- 💞️ Anything Flutter related
+- 📫 https://www.instagram.com/rohitvarma_04/
 
 <!---
 Enigma04/Enigma04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
