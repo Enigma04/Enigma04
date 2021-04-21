@@ -4,7 +4,7 @@
 - 💞️ Anything Flutter related
 - 📫 https://www.instagram.com/rohitvarma_04/
 
-![Rohit Thukral's Stats] <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Enigma04"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Enigma04&theme=black"/>
 
 
 <!---
